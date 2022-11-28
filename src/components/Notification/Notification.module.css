@@ -1,16 +1,8 @@
-.statTitle {
+.notificationTitle {
   margin: 1em 0 0.5em 0;
   font-size: 26px;
   line-height: 40px;
   font-weight: bold;
   font-family: 'Josefin Sans', sans-serif;
   color: bisque;
-}
-
-.statList {
-
-}
-
-.statItem {
-color: wheat
 }
